@@ -25,3 +25,7 @@ If you have any question, feel free to contact me.
 - [(video) William Horton - A Brief History of Jupyter Notebooks, Euroscipy, 2020](https://www.youtube.com/watch?v=kFhhCOeYcGw&ab_channel=EuroPythonConference)
 - [(article) Paul Romer - Jupyter, Mathematica, and the Future of the Research Paper](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/)
 - [(video) "Project Jupyter" with Brian Granger, ACM, 2018](https://www.youtube.com/watch?v=OVvC6O-i6fc)
+
+# Documents
+
+- [Press release ACM award 2017](https://awards.acm.org/binaries/content/assets/press-releases/2018/may/technical-awards-2017.pdf)
